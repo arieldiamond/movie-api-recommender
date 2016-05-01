@@ -1,6 +1,6 @@
 ## 'What Should I Watch Tonight?' A Movie Recommender API
 
-This API is the back-end of a two part project. [The front-end can be found here](https://github.com/arieldiamond/react-movie-recommendation-front-end).
+This API is the back-end of a two part project. [The front-end can be found here](https://github.com/arieldiamond/react-movie-recommendation-front-end). It is built with Rails Api and Grape.
 
 The data used here was populated from [The Movie Database] (https://www.themoviedb.org/).
 
